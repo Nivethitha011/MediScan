@@ -74,7 +74,7 @@ MediScan/
 Clone the repository:
 
 bash
-git clone https://github.com/nandhinisri1706/MediScan.git
+git clone https://github.com/nivethitha011/MediScan.git
 
 
 Navigate to the project directory:
@@ -167,7 +167,4 @@ Users should verify medicine information with a qualified healthcare professiona
 B.Sc. Computer Science with Artificial Intelligence
 
 ## Project 
-
-https://mediscan-health-assist-ai.streamlit.app/
-<img width="776" height="478" alt="image" src="https://github.com/user-attachments/assets/2406d335-547d-4f4b-b4d8-f377552e8a22" />
 

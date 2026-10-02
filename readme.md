@@ -166,5 +166,3 @@ Users should verify medicine information with a qualified healthcare professiona
 
 B.Sc. Computer Science with Artificial Intelligence
 
-## Project 
-

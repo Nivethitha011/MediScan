@@ -112,11 +112,6 @@ python -m streamlit run app.py
 The application will open in your browser.
 
 ## Example Output
-<img width="757" height="495" alt="image" src="https://github.com/user-attachments/assets/244cce93-8f2a-4cd8-8568-9991c9463e88" />
-<img width="684" height="575" alt="image" src="https://github.com/user-attachments/assets/67890d4f-cb47-45c3-b7ef-423cf723b92c" />
-<img width="661" height="594" alt="image" src="https://github.com/user-attachments/assets/90603c1b-8984-40f8-ad0a-75da83a03a0b" />
-<img width="661" height="554" alt="image" src="https://github.com/user-attachments/assets/0328eb4f-9026-45a2-9d71-0f3f72aa0e66" />
-<img width="661" height="320" alt="image" src="https://github.com/user-attachments/assets/4a1f06bf-7bbd-4a14-a91f-83cd58b4b497" />
 
 text
 Medicine Name: PARACIP-500
@@ -165,4 +160,9 @@ Users should verify medicine information with a qualified healthcare professiona
 **Nivethitha D**
 
 B.Sc. Computer Science with Artificial Intelligence
+
+## Project 
+
+https://mediscan-8qzyxwivhqhyv5shmevbjc.streamlit.app/
+<img width="733" height="464" alt="image" src="https://github.com/user-attachments/assets/8590f333-c9c5-47be-b50b-6ba6c64656e8" />
 
